@@ -16,7 +16,7 @@ The school district analysis will include:
 *How is the district summary affected?*
 Before cleaning up the data, the district summary:
 <img width="953" alt="District Before Clean Up" src="https://user-images.githubusercontent.com/95068439/150623149-14a4e67a-80ab-40b5-92f5-5cc4613c98c4.png">
-After cleaning up the data: 
+*After cleaning up the data:* 
 <img width="920" alt="District After Clean Up" src="https://user-images.githubusercontent.com/95068439/150623141-a71e4d46-2878-4941-b4c4-5600504b976e.png">
 
 CHANGE: Overall, there is no significant changes on the district summary. As we can see, there is a slight drop on *Average Math Score, *% Passing Math, and *% Passing Reading which also result to a small drop on the *% Overall Passing.
