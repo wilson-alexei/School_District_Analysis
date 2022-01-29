@@ -57,4 +57,8 @@ Thomas High School: 1174 Counts
 <img width="711" alt="Type After Clean Up" src="https://user-images.githubusercontent.com/95068439/150625596-2da85aa7-7104-44c3-a30d-bcd7a95a94cd.png">
 
 ## Summary
-The ninth-graders' math and reading grades from Thomas High School have been altered to 'NaN' as they were suspicious of academic dishonesty. As a result, the student count for the high school is reduced as well s the school's Average Math and Reading Scores which also lead to a lower Passing Math and English percentage which is also lead to lower Overall Passing percentage. It also brings down the rank of Thomas High School from second to eighth in terms of overall passing percentage.   
+The ninth-graders' math and reading grades from Thomas High School have been altered to 'NaN' as they were suspicious of academic dishonesty. As a result, the student count for the high school is reduced as well s the school's Average Math and Reading Scores which also lead to a lower Passing Math and English percentage which is also lead to lower Overall Passing percentage. It also brings down the rank of Thomas High School from second to eighth in terms of overall passing percentage.  
+
+**Email: wilsonalexei123@yahoo.com**
+
+**LinkedIn: https://www.linkedin.com/in/wilson-alexei/**
