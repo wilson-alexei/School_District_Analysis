@@ -53,6 +53,7 @@ Thomas High School: 1174 Counts
 - Scores by school type: Thomas High School is part of the Charter type and below are the changes before and after data clean-up:
 **Before**
 <img width="783" alt="Type Before Clean Up" src="https://user-images.githubusercontent.com/95068439/150625555-2250827d-98b0-433c-954c-9a5bb67e36ce.png">
+
 **After**
 <img width="711" alt="Type After Clean Up" src="https://user-images.githubusercontent.com/95068439/150625596-2da85aa7-7104-44c3-a30d-bcd7a95a94cd.png">
 
