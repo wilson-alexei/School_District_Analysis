@@ -1,4 +1,4 @@
-# Schoo_District_Analysis
+# School_District_Analysis
 Module 4 Challenge is utilizing `Anaconda`, `Jupyter Notebook`, `Pandas` and `Python`
 
 ## Overview of the school district analysis 
