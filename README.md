@@ -1,7 +1,8 @@
 # School_District_Analysis
+
 Module 4 Challenge is utilizing `Anaconda`, `Jupyter Notebook`, `Pandas` and `Python`
 
-## Overview of the school district analysis 
+## Overview 
 Due to evidences of academic dishonesty by the ninth graders in Thomas High School, the school board has notified and requested Maria to redo the school district analysis by replacing ninth-grade reading and math scores to a "NaN" or "Not a Number". We also need to exclude Thomas High School's ninth-graders from the school district analysis. The purpose of this analysis is to create a more accurate outcome and write a report for the school district analysis to describe how these changes affected the overall analysis.
 
 The school district analysis will include: 
